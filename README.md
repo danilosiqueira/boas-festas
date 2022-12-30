@@ -6,16 +6,19 @@ Com base em um ano e uma data é calculado os dias restantes para o Natal, retor
 
 ## Requisitos
 
-É necessário ter instalado o [nodejs](https://nodejs.org/pt-br/)
+É necessário ter instalado o [nodejs](https://nodejs.org/pt-br/).
 
 ## Setup
 
-Executar o comando `npm install`.
+Executar o comando:
+```npm install```
 
 ## Rodar os testes
 
-Executar o comando `npm test`.
+Executar o comando:
+```npm test```
 
 ## Rodar o programa
 
-Executar o comando `npm start`.
+Executar o comando:
+```npm start```
