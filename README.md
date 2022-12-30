@@ -11,14 +11,17 @@ Com base em um ano e uma data é calculado os dias restantes para o Natal, retor
 ## Setup
 
 Executar o comando:
+
 ```npm install```
 
 ## Rodar os testes
 
 Executar o comando:
+
 ```npm test```
 
 ## Rodar o programa
 
 Executar o comando:
+
 ```npm start```
